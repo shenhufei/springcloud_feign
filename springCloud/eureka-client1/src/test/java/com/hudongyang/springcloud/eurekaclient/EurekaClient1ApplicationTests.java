@@ -1,4 +1,4 @@
-package com.hudongyang.springcloud.eurekaclient1;
+package com.hudongyang.springcloud.eurekaclient;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

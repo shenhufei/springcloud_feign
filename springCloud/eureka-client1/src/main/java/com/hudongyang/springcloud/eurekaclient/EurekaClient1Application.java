@@ -1,4 +1,4 @@
-package com.hudongyang.springcloud.eurekaclient1;
+package com.hudongyang.springcloud.eurekaclient;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;

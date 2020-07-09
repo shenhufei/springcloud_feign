@@ -11,6 +11,11 @@
         <option value="$PROJECT_DIR$/springcloud-demo-master/eureka-client2/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-demo-master/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-demo-master/service-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/springCloud/service-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/springCloud/pom.xml" />
+        <option value="$PROJECT_DIR$/springCloud/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springCloud/eureka-client2/pom.xml" />
+        <option value="$PROJECT_DIR$/springCloud/eureka-client1/pom.xml" />
       </list>
     </option>
   </component>

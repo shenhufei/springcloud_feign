@@ -1,12 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab09add6-aa68-45dd-b02a-dc21ca74212d" name="Default Changelist" comment="" />
+    <list default="true" id="ab09add6-aa68-45dd-b02a-dc21ca74212d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_spring_cloud_starter_alibaba_seata_unknown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-demo-master/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-demo-master/eureka-client1/eureka-client1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-demo-master/eureka-client2/eureka-client2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-demo-master/eureka-server/eureka-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-demo-master/service-feign/service-feign.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-client1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-client1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-client1/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-client1/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-client1/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-client1/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-client1/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-client1/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-client1/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-client1/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-client1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-client1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-client1/src/main/java/com/hudongyang/springcloud/eurekaclient1/EurekaClient1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-client1/src/main/java/com/hudongyang/springcloud/eurekaclient/EurekaClient1Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-client1/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-client1/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-client1/src/test/java/com/hudongyang/springcloud/eurekaclient1/EurekaClient1ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-client1/src/test/java/com/hudongyang/springcloud/eurekaclient/EurekaClient1ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-client2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-client2/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-client2/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-client2/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-client2/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-client2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-client2/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-client2/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-client2/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-client2/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-client2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-client2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-client2/src/main/java/com/hudongyang/springcloud/eurekaclient2/EurekaClient2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-client2/src/main/java/com/hudongyang/springcloud/eurekaclient2/EurekaClient2Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-client2/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-client2/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-client2/src/test/java/com/hudongyang/springcloud/eurekaclient2/EurekaClient2ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-client2/src/test/java/com/hudongyang/springcloud/eurekaclient2/EurekaClient2ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-server/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-server/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-server/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-server/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-server/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-server/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-server/src/main/java/com/hudongyang/springcloud/eurekaserver/EurekaServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-server/src/main/java/com/hudongyang/springcloud/eurekaserver/EurekaServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/eureka-server/src/test/java/com/hudongyang/springcloud/eurekaserver/EurekaServerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/eureka-server/src/test/java/com/hudongyang/springcloud/eurekaserver/EurekaServerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/service-feign/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/service-feign/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/service-feign/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/service-feign/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/service-feign/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/service-feign/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/service-feign/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/service-feign/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/service-feign/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/service-feign/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/service-feign/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/service-feign/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/service-feign/src/main/java/com/hudongyang/springcloud/servicefeign/ServiceFeignApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/service-feign/src/main/java/com/hudongyang/springcloud/servicefeign/ServiceFeignApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/service-feign/src/main/java/com/hudongyang/springcloud/servicefeign/controller/DemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/service-feign/src/main/java/com/hudongyang/springcloud/servicefeign/controller/DemoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/service-feign/src/main/java/com/hudongyang/springcloud/servicefeign/feigninterface/HiInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/service-feign/src/main/java/com/hudongyang/springcloud/servicefeign/feigninterface/HiInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/service-feign/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/service-feign/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/service-feign/src/test/java/com/hudongyang/springcloud/servicefeign/ServiceFeignApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springCloud/service-feign/src/test/java/com/hudongyang/springcloud/servicefeign/ServiceFeignApplicationTests.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -21,6 +79,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -43,7 +102,7 @@
   <component name="RunManager" selected="Spring Boot.ServiceFeignApplication">
     <configuration name="EurekaClient1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="eureka-client1" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hudongyang.springcloud.eurekaclient1.EurekaClient1Application" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hudongyang.springcloud.eurekaclient.EurekaClient1Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -80,12 +139,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594203740538</updated>
-      <workItem from="1594203741668" duration="1046000" />
+      <workItem from="1594203741668" duration="3510000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
